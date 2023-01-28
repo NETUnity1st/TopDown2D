@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{bba8a423-1e9a-f3d1-4280-3bf0ce6b478b}</ProjectGuid>
+    <ProjectGuid>{9a0fa405-83a9-2b8f-e6dd-d038f82c862d}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Tilemap.Extras.Editor</AssemblyName>
@@ -37,27 +37,27 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\CoordinateBrush\CoordinateBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\PopulateRuleOverrideTileWizard.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\PrefabRandomBrush\PrefabRandomBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\BasePrefabBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\RandomBrush\RandomBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\GameObjectBrush\GameObjectBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\GroupBrush\GroupBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Menu\CustomRuleTileMenu.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrushSmooth\TintTextureGeneratorEditor.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrushSmooth\TintBrushSmooth.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleTile\RuleTileEditor.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\HexagonalRuleTile\HexagonalRuleTileEditor.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\PrefabBrush\PrefabBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\RuleOverrideTileEditor.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Menu\MenuItemOrder.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\BrushMenuItem.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrush\TintBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\AdvancedRuleOverrideTileEditor.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\TerrainTileMenu.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\LineBrush\LineBrush.cs" />
-     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\RandomTileMenu.cs" />
      <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\PipelineTileMenu.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Menu\CustomRuleTileMenu.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleTile\RuleTileEditor.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\PrefabRandomBrush\PrefabRandomBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\GameObjectBrush\GameObjectBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\PrefabBrush\PrefabBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\RandomBrush\RandomBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\PopulateRuleOverrideTileWizard.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\RuleOverrideTileEditor.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\BrushMenuItem.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\TerrainTileMenu.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrushSmooth\TintBrushSmooth.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\GroupBrush\GroupBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\PrefabBrushes\BasePrefabBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Menu\MenuItemOrder.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrush\TintBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\HexagonalRuleTile\HexagonalRuleTileEditor.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\RuleOverrideTile\AdvancedRuleOverrideTileEditor.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\RandomTileMenu.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\LineBrush\LineBrush.cs" />
+     <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Brushes\TintBrushSmooth\TintTextureGeneratorEditor.cs" />
      <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\IsometricRuleTile\IsometricRuleTileEditor.cs" />
      <Compile Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Tiles\Menu\WeightedRandomTileMenu.cs" />
      <None Include="Assets\2d-extras-1.8.1-preview\2d-extras-1.8.1-preview\Editor\Unity.2D.Tilemap.Extras.Editor.asmdef" />
@@ -299,19 +299,19 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>C:/OnlyUnity/TopDown/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>C:/OnlyUnity/TopDown/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>C:/OnlyUnity/TopDown/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>C:/OnlyUnity/TopDown/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/OnlyUnity/TopDown/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -668,24 +668,24 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>C:/OnlyUnity/TopDown/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/OnlyUnity/TopDown/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/OnlyUnity/TopDown/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:/OnlyUnity/TopDown/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:/OnlyUnity/TopDown/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:/OnlyUnity/깃허브시험용2/TopDown2D/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Tilemap.Extras.csproj">
-      <Project>{9e780d5f-a3ad-c4ca-b2d9-a2e5e9fe90b2}</Project>
+      <Project>{5ba22c18-43f8-bd54-e3d1-56d65b044c24}</Project>
       <Name>Unity.2D.Tilemap.Extras</Name>
     </ProjectReference>
   </ItemGroup>
